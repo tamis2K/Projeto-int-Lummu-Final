@@ -2,13 +2,13 @@
 
 
 <p align="center">
-<img src="imagens/MVP.gif">
+<img src="imagens/FuncionamentoProjeto.gif">
 </p>
 
-<h1 align="center"> :electric_plug: Estrutura do Projeto :electric_plug: </h1>
+<h1 align="center"> :bulb: Estrutura do Projeto :bulb: </h1>
 
 <p align="center">
-<img src="imagens/8.png" width="900" height="490">
+<img src="imagens/EstruturaProjeto.png" width="900" height="490">
 </p>
 
 
@@ -18,11 +18,10 @@
 > - Utilizado um Relé de 3V onde fica armazendo no case.
 
 <p align="center">
-<img src="imagens/C.png">
+<img src="imagens/ComponentesInternos.png">
 </p>
-
 <p align="center">
-<img src="https://i.makeagif.com/media/11-23-2015/i6yC2P.gif">
+<img src="imagens/Lampada.png">
 </p>
 
 <h1 align="center"> :computer: Programação :computer: </h1>
@@ -31,7 +30,7 @@
 <img src="imagens/7.png" width="500" height="150">
 </p>
 
-<img src="https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-21-512.png" width="20" height="20"> [Blynk](https://blynk.io/), acesse e crie sua conta, crie um novo dispositivo, pegue as credências e defina as seguintes variáveis.
+<img src="https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-21-512.png" width="20" height="20"> [Sinric Pro](https://portal.sinric.pro/register), acesse e crie sua conta, crie um novo dispositivo, pegue as credências e defina as seguintes variáveis.
 
 
 ```js
@@ -48,18 +47,7 @@ Configure sua rede Wi-Fi
 
 Baixa o app da Alexa e adicione o dispositivo.
 
-<img src="imagens/1.png" width="450" height="250">
-
-<img src="imagens/2.png" width="450" height="250">
-
-<img src="imagens/3.png" width="450" height="250">
-
-<img src="imagens/4.png" width="450" height="250">
-
-
-<img src="https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-21-512.png" width="20" height="20">  Baixe o APP do Blynk, em seu celular.
-
-![](imagens/app.png)
+<img src="imagens/TutorialConfigAlexa.pdf" width="450" height="250">
 
 # Contribua 
 
