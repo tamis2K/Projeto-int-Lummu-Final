@@ -27,9 +27,9 @@
 <h1 align="center"> :computer: Programação :computer: </h1>
 
 <p align="center">
-<img src="imagens/LogoVScode.jpeg" width="500" height="150">
-<img src="imagens/LogoSinricPro.jpeg" width="500" height="150">
-<img src="imagens/LogoAlexa.jpeg" width="500" height="150">
+<img src="imagens/LogoVScode.jpeg" width="200" height="150">
+<img src="imagens/LogoSinricPro.jpeg" width="200" height="150">
+<img src="imagens/LogoAlexa.jpeg" width="200" height="150">
 </p>
 
 [Sinric Pro](https://portal.sinric.pro/register), acesse e crie sua conta, crie um novo dispositivo, pegue as credências e defina as seguintes variáveis.
