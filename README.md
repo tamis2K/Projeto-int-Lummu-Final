@@ -18,10 +18,10 @@
 > - Utilizado um Relé de 3V onde fica armazendo no case.
 
 <p align="center">
-<img src="imagens/ComponentesInternos.png">
+<img src="imagens/ComponentesInternos.jpeg">
 </p>
 <p align="center">
-<img src="imagens/Lampada.png">
+<img src="imagens/Lampada.jpeg">
 </p>
 
 <h1 align="center"> :computer: Programação :computer: </h1>
@@ -47,7 +47,7 @@ Configure sua rede Wi-Fi
 
 Baixa o app da Alexa e adicione o dispositivo.
 
-<img src="imagens/TutorialConfigAlexa.jpg" width="450" height="250">
+<img src="imagens/TutorialConfigAlexa_page-0001.jpg" width="450" height="250">
 
 # Contribua 
 
