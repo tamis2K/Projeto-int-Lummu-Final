@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="imagens/FuncionamentoProjeto.gif">
+<img src="imagens/FuncionamentoProjeto.gif" width="800" height="420">
 </p>
 
 <h1 align="center"> :bulb: Estrutura do Projeto :bulb: </h1>
