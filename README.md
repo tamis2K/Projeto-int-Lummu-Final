@@ -49,9 +49,9 @@ Configure sua rede Wi-Fi
 
 Baixa o app da Alexa e adicione o dispositivo.
 
-<img src="imagens/tutorialalexapt1.jpg" width="200" height="250">
-<img src="imagens/tutorialalexapt2.jpg" width="200" height="250">
-<img src="imagens/tutorialalexapt3.jpg" width="200" height="250">
+<img src="imagens/tutorialalexapt1.jpg" width="800" height="250">
+<img src="imagens/tutorialalexapt2.jpg" width="800" height="250">
+<img src="imagens/tutorialalexapt3.jpg" width="800" height="250">
 
 # Contribua 
 
