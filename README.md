@@ -8,7 +8,7 @@
 <h1 align="center"> :bulb: Estrutura do Projeto :bulb: </h1>
 
 <p align="center">
-<img src="imagens/EstruturaProjeto.jpg" width="900" height="490">
+<img src="imagens/EstruturaProjeto_page-0001.jpg" width="900" height="490">
 </p>
 
 
