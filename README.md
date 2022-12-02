@@ -8,7 +8,7 @@
 <h1 align="center"> :bulb: Estrutura do Projeto :bulb: </h1>
 
 <p align="center">
-<img src="imagens/EstruturaProjeto.pdf" width="900" height="490">
+<img src="imagens/EstruturaProjeto.jpg" width="900" height="490">
 </p>
 
 
@@ -30,7 +30,7 @@
 <img src="imagens/7.png" width="500" height="150">
 </p>
 
-<img src="https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-21-512.png" width="20" height="20"> [Sinric Pro](https://portal.sinric.pro/register), acesse e crie sua conta, crie um novo dispositivo, pegue as credências e defina as seguintes variáveis.
+[Sinric Pro](https://portal.sinric.pro/register), acesse e crie sua conta, crie um novo dispositivo, pegue as credências e defina as seguintes variáveis.
 
 
 ```js
@@ -47,7 +47,7 @@ Configure sua rede Wi-Fi
 
 Baixa o app da Alexa e adicione o dispositivo.
 
-<img src="imagens/TutorialConfigAlexa.pdf" width="450" height="250">
+<img src="imagens/TutorialConfigAlexa.jpg" width="450" height="250">
 
 # Contribua 
 
