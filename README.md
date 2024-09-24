@@ -1,5 +1,10 @@
 <h1 align="center"> Projeto Integrador MVP - Lummu </h1>
 
+<h2 align="center">Projeto desenvolvido em conjunto por 
+  <a href="https://github.com/fatini-alvaro">Álvaro Fatini (@fatini-alvaro)</a>, 
+  <a href="https://github.com/tamis2K">Mateus Varnier (@tamis2K)</a> e 
+  <a href="https://github.com/AdrielSousa">Adriel Sousa (@AdrielSousa)</a>
+</h2>
 
 <p align="center">
 <img src="imagens/FuncionamentoProjeto.gif" width="800" height="420">
